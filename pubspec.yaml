@@ -16,7 +16,7 @@ flutter:
         package: com.eyedeadevelopment.fluttertts
         pluginClass: FlutterTtsPlugin
       ios:
-        pluginClass: FlutterTtsPlugin
+        pluginClass: SwiftFlutterTtsPlugin
       macos:
         pluginClass: FlutterTtsPlugin
       windows:
